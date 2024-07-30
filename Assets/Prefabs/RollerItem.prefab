@@ -111,7 +111,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   _image: {fileID: 8281258035856771529}
-  speedValue_1: 2000
+  speedValue_1: 2500
   speedValue_2: 1500
   speedValue_3: 500
   speedValue_4: 100
