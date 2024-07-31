@@ -108,7 +108,7 @@ namespace JGM.Game.Rollers
                     Debug.Log("slot 1 " + newSpeed_1);
 
                 }
-                else if (itemTime_1 > 1f && itemTime_1 <= 1.75f)
+                else if (itemTime_1 > 1f && itemTime_1 <= 1.5f)
                 {
                     Debug.Log("Log_2");
 
@@ -117,7 +117,7 @@ namespace JGM.Game.Rollers
 
 
                 }
-                else if (itemTime_1 > 1.75f && itemTime_1 <= 2.0f)
+                else if (itemTime_1 > 1.5f && itemTime_1 <= 2.0f)
                 {
                     Debug.Log("Log_2");
 
@@ -144,7 +144,7 @@ namespace JGM.Game.Rollers
 
 
                 }
-                else if (itemTime_1 > 3.5f && itemTime_1 <= 4.00f)
+                else if (itemTime_1 > 3.00f && itemTime_1 <= 4.00f)
                 {
                     Debug.Log("Log_2");
 
@@ -207,17 +207,19 @@ namespace JGM.Game.Rollers
                     Debug.Log("slot 1 " + newSpeed_1);
 
                 }
-                else if (itemTime_1 > 1f && itemTime_1 <= 1.75f)
+                else if (itemTime_1 > 1f && itemTime_1 <= 1.5f)
                 {
                     Debug.Log("Log_2.7");
+
                     _moveSpeed += speedValue_10;
                     newSpeed_1 = _moveSpeed;
 
 
                 }
-                else if (itemTime_1 > 1.75f && itemTime_1 <= 2.0f)
+                else if (itemTime_1 > 1.5f && itemTime_1 <= 2.0f)
                 {
                     Debug.Log("Log_3.7");
+
                     _moveSpeed += speedValue_11;
                     newSpeed_1 = _moveSpeed;
 
@@ -241,7 +243,7 @@ namespace JGM.Game.Rollers
 
 
                 }
-                else if (itemTime_1 > 3.5f && itemTime_1 <= 4.00f)
+                else if (itemTime_1 > 3.00f && itemTime_1 <= 4.00f)
                 {
                     Debug.Log("Log_6.7");
 
@@ -255,7 +257,6 @@ namespace JGM.Game.Rollers
                     Debug.Log("Log_7.7");
 
                     _moveSpeed += speedValue_15;
-                    Debug.Log("Sp" + _moveSpeed);
                     newSpeed_1 = _moveSpeed;
 
 
@@ -280,7 +281,6 @@ namespace JGM.Game.Rollers
                 else if (itemTime_1 > 5.50f && itemTime_1 <= 6.00f)
                 {
                     Debug.Log("Log_10.7");
-
                     _moveSpeed += speedValue_18;
                     newSpeed_1 = _moveSpeed;
 
@@ -339,7 +339,7 @@ namespace JGM.Game.Rollers
                     Debug.Log("slot 1 " + newSpeed_1);
 
                 }
-                else if (itemTime_1 > 1f && itemTime_1 <= 1.75f)
+                else if (itemTime_1 > 1f && itemTime_1 <= 1.5f)
                 {
                     Debug.Log("Log_2.7");
                     _moveSpeed += speedValue_22;
@@ -347,7 +347,7 @@ namespace JGM.Game.Rollers
 
 
                 }
-                else if (itemTime_1 > 1.75f && itemTime_1 <= 2.0f)
+                else if (itemTime_1 > 1.5f && itemTime_1 <= 2.0f)
                 {
                     Debug.Log("Log_3.7");
                     _moveSpeed += speedValue_23;
@@ -373,7 +373,7 @@ namespace JGM.Game.Rollers
 
 
                 }
-                else if (itemTime_1 > 3.5f && itemTime_1 <= 4.00f)
+                else if (itemTime_1 > 3.00f && itemTime_1 <= 4.00f)
                 {
                     Debug.Log("Log_6.7");
 
@@ -382,7 +382,7 @@ namespace JGM.Game.Rollers
 
 
                 }
-                else if (itemTime_1 > 4.0f && itemTime_1 <= 4.50f)
+                else if (itemTime_1 > 4.00f && itemTime_1 <= 4.50f)
                 {
                     Debug.Log("Log_7.7");
 
@@ -435,7 +435,7 @@ namespace JGM.Game.Rollers
 
 
                 }
-                else if (itemTime_1 > 7.50f && itemTime_1 <= 8.00f)
+                else if (itemTime_1 > 7.00f && itemTime_1 <= 8.00f)
                 {
                     Debug.Log("Log_12.7");
 
@@ -444,7 +444,7 @@ namespace JGM.Game.Rollers
 
 
                 }
-                else if (itemTime_1 > 8.50f && itemTime_1 <= 9.00f)
+                else if (itemTime_1 > 8.00f && itemTime_1 <= 9.00f)
                 {
                     Debug.Log("Log_12.7");
 
@@ -453,7 +453,7 @@ namespace JGM.Game.Rollers
 
 
                 }
-                else if (itemTime_1 > 9.50f && itemTime_1 <= 10.00f)
+                else if (itemTime_1 > 9.00f && itemTime_1 <= 10.00f)
                 {
                     Debug.Log("Log_12.7");
 

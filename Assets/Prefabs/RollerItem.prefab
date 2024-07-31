@@ -119,30 +119,30 @@ MonoBehaviour:
   speedValue_6: 10
   speedValue_7: 5
   speedValue_8: 1
-  speedValue_9: 2000
+  speedValue_9: 2500
   speedValue_10: 2000
-  speedValue_11: 2000
+  speedValue_11: 1500
   speedValue_12: 1000
-  speedValue_13: 800
-  speedValue_14: 500
-  speedValue_15: 200
-  speedValue_16: 100
-  speedValue_17: 50
-  speedValue_18: 10
-  speedValue_19: 10
-  speedValue_20: 10
-  speedValue_21: 2000
+  speedValue_13: 500
+  speedValue_14: 100
+  speedValue_15: 1
+  speedValue_16: -100
+  speedValue_17: -150
+  speedValue_18: -200
+  speedValue_19: -200
+  speedValue_20: -200
+  speedValue_21: 1800
   speedValue_22: 2000
-  speedValue_23: 2000
-  speedValue_24: 2000
-  speedValue_25: 1500
-  speedValue_26: 1000
-  speedValue_27: 600
-  speedValue_28: 400
-  speedValue_29: 100
-  speedValue_30: 80
-  speedValue_31: 50
-  speedValue_32: 40
-  speedValue_33: 10
-  speedValue_34: 10
-  speedValue_35: 10
+  speedValue_23: 1000
+  speedValue_24: 500
+  speedValue_25: 250
+  speedValue_26: 100
+  speedValue_27: 50
+  speedValue_28: 1
+  speedValue_29: 1
+  speedValue_30: -50
+  speedValue_31: -60
+  speedValue_32: -70
+  speedValue_33: -80
+  speedValue_34: -90
+  speedValue_35: -100
